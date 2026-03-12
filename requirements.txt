@@ -1,0 +1,12 @@
+streamlit
+requests
+python-dotenv
+streamlit-player
+fastapi
+uvicorn[standard]
+chromadb
+sentence-transformers
+mcp
+starlette
+pypdf
+python-multipart
